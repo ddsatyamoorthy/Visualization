@@ -1,1 +1,1 @@
-<img width="694" alt="Tableau IMDb" src="https://github.com/user-attachments/assets/2fd5fc1a-09b7-4d32-8684-7ad1c7d9546f">
+<img width="1393" alt="IMDb rating" src="https://github.com/user-attachments/assets/65a12cee-bf4b-4ee9-8272-76f06b7ca865">
